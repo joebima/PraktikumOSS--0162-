@@ -1,3 +1,0 @@
-Jordan Alif C.B : G.231.20.0162 : Nganjuuk (Latihan Git)
-Mata Kuliah : Open Source System
-Catatan : Praktikum dengan menggunakan GIT
